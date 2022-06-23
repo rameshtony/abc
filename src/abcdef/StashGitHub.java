@@ -9,6 +9,7 @@ public class StashGitHub {
 		System.out.println(c);
 System.out.println("my name is Ramesh");
 System.out.println("I'm doing the conflict concept");
+System.out.println("sai is changing my github project class ");
 	}
 
 }
